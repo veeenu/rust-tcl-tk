@@ -1,0 +1,6 @@
+[submodule "tcl-tk/tcl"]
+	path = tcl-tk/tcl
+	url = https://github.com/tcltk/tcl
+[submodule "tcl-tk/tk"]
+	path = tcl-tk/tk
+	url = https://github.com/tcltk/tk

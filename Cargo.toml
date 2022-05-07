@@ -1,0 +1,2 @@
+[workspace]
+members = ["rust-tcl-tk", "xtask"]
